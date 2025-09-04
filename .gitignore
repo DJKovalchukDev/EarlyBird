@@ -1,0 +1,36 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+/out/
+/target/
+/build/
+/classes/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse (на всякий случай, если когда-то откроешь проект там)
+*.classpath
+*.project
+*.settings/
+
+# Backup and temp files
+*.swp
+*.tmp
+*.bak
